@@ -55,3 +55,13 @@ footer {
   padding: 20px;
   font-size: 0.9em;
 }
+.payment .cta {
+  background-color: #ffc439;
+  color: #111;
+  padding: 12px 24px;
+  font-weight: bold;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
